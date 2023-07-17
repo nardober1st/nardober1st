@@ -1,20 +1,19 @@
-## Hey there! I'm Bernardo Oechsler
+# 💫 About Me:
+🔭 I’m currently studying Android Development<br>🌱 I’m currently looking for my first opportunity as an Android Developer
 
-- 🔭 I’m currently working with Android Development
-- 🌱 I’m currently learning Android Development / Kotlin / Java
 
-[![Bernardo's stats](https://github-readme-stats.vercel.app/api?username=nardober1st&show_icons=true&theme=dracula)](https://github.com/nardober1st/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nardober1st&layout=compact&theme=dracula)](https://github.com/nardober1st/github-readme-stats)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardo-oechsler) 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bernardo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Bernardo-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Bernardo-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Bernardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nardober1st&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nardober1st&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nardober1st&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div>
-  <a href="https://www.linkedin.com/in/bernardo-oechsler-b84995194"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=nardober1st&icon=0&color=1)](https://visitcount.itsvg.in)
